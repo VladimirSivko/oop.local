@@ -3,5 +3,5 @@
 namespace core\models;
 
 class Main {
-    //put your code here
+    //TODO конструктор с поключением к базе
 }
