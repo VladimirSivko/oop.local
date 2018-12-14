@@ -8,7 +8,7 @@ class View {
     public $page;
 
     public function render() {
-	include_once 'vendor/views/templates/' . $this->template . '.php';
+	include_once 'vendor/views/template/' . $this->template . '.php';
     }
 
 }
